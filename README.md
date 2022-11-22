@@ -6,12 +6,12 @@ This template is packed with the best reservation features needed for a travel c
 
 You can customize this widget according to your needs by downloading it or by using the “Edit” option on our site. Additionally, you can use the “Demo” feature to see how it will look on a live website. Download this template for free and wow your customers with this template.
 
-Template Information:
+# Template Information:
 
-Template Name: Bus Ticket Reservation Widget Flat Responsive Widget Template.
-License: Life Time Free Licence under Creative Commons Attribution 3.0 Unported. Unlimited Use, Source files & PSD included, you can help & support us (W3Layouts, a Non-Profit) by donations or you should keep link to our website.
-Date Created:   Nov 20, 2022.
-Compatible Browsers: Google Chrome, Firefox, Safari, IE 10, Opera, etc.
+# Template Name: Bus Ticket Reservation Widget Flat Responsive Widget Template.
+# License: Life Time Free Licence under Creative Commons Attribution 3.0 Unported. Unlimited Use, Source files & PSD included, you can help & support us ( a Non-Profit) by donations or you should keep link to our website.
+# Date Created:   Nov 20, 2022.
+# Compatible Browsers: Google Chrome, Firefox, Safari, IE 10, Opera, etc.
 High Resolution: Yes.
 Layout: Fluid Responsive Layout.
-Source Files included:  HTML files (.html), Style Sheets (.css), Images (.jpg/png/gif), JQuery plugins (.js), Photoshop sources (.psd), Fonts (.ttf).
+# Source Files included:  HTML files (.html), Style Sheets (.css), Images (.jpg/png/gif), JQuery plugins (.js), Photoshop sources (.psd), Fonts (.ttf).
